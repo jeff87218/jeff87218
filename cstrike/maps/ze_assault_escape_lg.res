@@ -1,0 +1,10 @@
+maps/ze_assault_escape_lg.res  
+maps/ze_assault_escape_lg.bsp  
+lancelotgames.wad
+models/anubis_mummia.mdl  
+models/bush_fern_small.mdl  
+models/d1_al.mdl  
+models/fern_egypt.mdl  
+models/foca_mad_3.mdl  
+models/letrerojaipola.mdl  
+sprites/fire3.spr

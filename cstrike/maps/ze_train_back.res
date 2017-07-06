@@ -1,0 +1,10 @@
+maps/ze_train_back.res  
+maps/ze_train_back.bsp  
+lancelotgames.wad
+models/ze_train_back/cm_rocks.mdl  
+models/ze_train_back/gins_substation.mdl  
+models/ze_train_back/gutspile.mdl  
+models/ze_train_back/jeep.mdl  
+models/ze_train_back/tallgrass.mdl  
+models/ze_train_back/tanquefuego.mdl  
+models/ze_train_back/tree_gshaded.mdl  

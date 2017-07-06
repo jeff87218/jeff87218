@@ -1,0 +1,12 @@
+maps/ze_project.res  
+maps/ze_project.bsp  
+lancelotgames.wad
+models/ze_project/bulb.mdl  
+models/ze_project/bush05.mdl  
+models/ze_project/cone_clean.mdl  
+models/ze_project/forge_tree1.mdl  
+models/ze_project/garbagecomposite002a.mdl  
+models/ze_project/hessi_gras01.mdl  
+models/ze_project/stop_sign.mdl  
+models/ze_project/trashcan_burning.mdl  
+models/ze_project/truck_old.mdl  
